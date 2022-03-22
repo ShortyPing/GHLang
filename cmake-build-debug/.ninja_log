@@ -1,0 +1,5 @@
+# ninja log v5
+0	9	1647985380683922120	CMakeFiles/GHLang.dir/src/tokenizer/Tokenizer.c.o	8616a1d3c526a18
+0	12	1647985380687255452	CMakeFiles/GHLang.dir/src/utils/file_util.c.o	5fe780125349a21f
+0	13	1647985380687255452	CMakeFiles/GHLang.dir/src/main.c.o	96f50d83b02560e2
+13	22	1647985380697255453	GHLang	683dee3cc027a4d7

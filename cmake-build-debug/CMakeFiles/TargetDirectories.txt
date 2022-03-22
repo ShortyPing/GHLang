@@ -1,0 +1,3 @@
+/home/shortping/Coding/C/GHLang/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shortping/Coding/C/GHLang/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shortping/Coding/C/GHLang/cmake-build-debug/CMakeFiles/GHLang.dir
